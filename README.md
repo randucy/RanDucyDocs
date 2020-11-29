@@ -1,2 +1,2 @@
-# documentation
+# Documentation
 Official documentation for RanDucy!
